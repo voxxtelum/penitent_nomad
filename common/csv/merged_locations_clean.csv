@@ -1,0 +1,172 @@
+store_uid,uuid,short_name,store_name,store_desc,store_add1,store_add2,store_city,store_state,store_zip,store_address_full,Latitude,Longitude,rand_uuid
+01960_8e51e0a5_containerstore_peabody,8e51e0a5,containerstore,Container Store,Peabody,210 Andover Street,LL01,Peabody,MA,01960,"210 Andover Street Peabody, MA 01960",42.5414196,-70.9445901,40eaa5d2
+02467_1a370ad1_containerstore_chestnut_hill,1a370ad1,containerstore,Container Store,Chestnut Hill,55 Boylston St,,Chestnut Hill,MA,02467,"55 Boylston St Chestnut Hill, MA 02467",42.3227831,-71.1687096,ebe56afc
+01760_bd4ac9aa_containerstore_natick,bd4ac9aa,containerstore,Container Store,Natick,1265 Worcester Street,,Natick,MA,01760,"1265 Worcester Street Natick, MA 01760",42.2997815,-71.3893956,445fe8ff
+02920_0d186a8a_containerstore_cranston,0d186a8a,containerstore,Container Store,Cranston,150 Hillside Rd,,Cranston,RI,02920,"150 Hillside Rd Cranston, RI 02920",41.7604202,-71.4574866,8fe60c8b
+11530_a0fa003f_containerstore_garden_city,a0fa003f,containerstore,Container Store,Garden City,902 Old Country Rd,,Garden City,NY,11530,"902 Old Country Rd Garden City, NY 11530",40.7448076,-73.6038542,6ecb7029
+10601_fdd1e407_containerstore_white_plains,fdd1e407,containerstore,Container Store,White Plains,145 Westchester Avenue,,White Plains,NY,10601,"145 Westchester Avenue White Plains, NY 10601",41.0322012,-73.7576226,80e926e9
+10710_1d7c8925_containerstore_yonkers,1d7c8925,containerstore,Container Store,Yonkers,48 Market Street,,Yonkers,NY,10710,"48 Market Street Yonkers, NY 10710",40.9616324,-73.8555979,28c81e6b
+10011_0ca8d163_containerstore_new_york,0ca8d163,containerstore,Container Store,New York,629 Sixth Avenue,,New York,NY,10011,"629 Sixth Avenue New York, NY 10011",40.7403461,-73.9952173,9c8a3b74
+07652_91b00fdd_containerstore_paramus,91b00fdd,containerstore,Container Store,Paramus,370 Route 17,#1,Paramus,NJ,07652,"370 Route 17 Paramus, NJ 07652",40.9459839,-74.0710441,51c16766
+10314_d3b6df1b_containerstore_staten_island,d3b6df1b,containerstore,Container Store,Staten Island,283 Platinum Ave,Suite 1365,Staten Island,NY,10314,"283 Platinum Ave Staten Island, NY 10314",40.5801216,-74.1667504,8bb1f374
+07039_8bdbe2fb_containerstore_livingston,8bdbe2fb,containerstore,Container Store,Livingston,372 W. Mount Pleasant Ave,,Livingston,NJ,07039,"372 W. Mount Pleasant Ave Livingston, NJ 07039",40.7969656,-74.3405558,23337f07
+08805_9ef3d20e_containerstore_bound_brook,9ef3d20e,containerstore,Container Store,Bound Brook,335 Chimney Rock Rd,,Bound Brook,NJ,08805,"335 Chimney Rock Rd Bound Brook, NJ 08805",40.577125,-74.5609641,03422c52
+08002_eeab578a_containerstore_cherry_hill,eeab578a,containerstore,Container Store,Cherry Hill,2000 Route 38,OP-2,Cherry Hill,NJ,08002,"2000 Route 38 Cherry Hill, NJ 08002",39.942495,-75.0255696,d528b8ca
+19406_24029c0b_containerstore_king_of_prussia,24029c0b,containerstore,Container Store,King of Prussia,650 W. Dekalb Pike,,King of Prussia,PA,19406,"650 W. Dekalb Pike King of Prussia, PA 19406",40.0881682,-75.3832079,c2bd4b31
+19702_9a0a9d1d_containerstore_newark,9a0a9d1d,containerstore,Container Store,Newark,2200 Fashion Center Blvd,,Newark,DE,19702,"2200 Fashion Center Blvd Newark, DE 19702",39.6739544,-75.6496298,d7aedc47
+21401_cd405926_containerstore_annapolis,cd405926,containerstore,Container Store,Annapolis,2280 Annapolis Mall,,Annapolis,MD,21401,"2280 Annapolis Mall Annapolis, MD 21401",38.9910747,-76.5454317,f42b4112
+20016_fef3afb7_containerstore_washington,fef3afb7,containerstore,Container Store,Washington,4500 Wisconsin Avenue,,Washington,DC,20016,"4500 Wisconsin Avenue Washington, DC 20016",38.9484195,-77.0799745,af676ff3
+22201_63a97686_containerstore_arlington,63a97686,containerstore,Container Store,Arlington,2800 Clarendon Blvd.,R-750,Arlington,VA,22201,"2800 Clarendon Blvd. Arlington, VA 22201",38.8875055,-77.092154,97c0e062
+20852_1ed58d1e_containerstore_rockville,1ed58d1e,containerstore,Container Store,Rockville,1601 Rockville Pike,,Rockville,MD,20852,"1601 Rockville Pike Rockville, MD 20852",39.0635333,-77.1264943,1402420b
+22182_f826004d_containerstore_vienna,f826004d,containerstore,Container Store,Vienna,8459 Leesburg Pike,,Vienna,VA,22182,"8459 Leesburg Pike Vienna, VA 22182",38.9246276,-77.2399248,b6f468b7
+20190_ab97d697_containerstore_reston,ab97d697,containerstore,Container Store,Reston,1851 Fountain Dr.,,Reston,VA,20190,"1851 Fountain Dr. Reston, VA 20190",38.9616959,-77.3549644,76a1b1bd
+23233_bfc98d69_containerstore_richmond,bfc98d69,containerstore,Container Store,Richmond,11732 W Broad St,Suite PP1B,Richmond,VA,23233,"11732 W Broad St Richmond, VA 23233",37.6536924,-77.6150483,6ff46d15
+27612_e4d00446_containerstore_raleigh,e4d00446,containerstore,Container Store,Raleigh,4601 Creedmoor Rd,Suite 100,Raleigh,NC,27612,"4601 Creedmoor Rd Raleigh, NC 27612",35.8449333,-78.6808242,f81c7a97
+15237_638ff95c_containerstore_pittsburgh,638ff95c,containerstore,Container Store,Pittsburgh,8033 McKnight Road,,Pittsburgh,PA,15237,"8033 McKnight Road Pittsburgh, PA 15237",40.5526313,-80.0212657,222478bb
+33410_3b3cb97a_containerstore_palm_beach_gardens,3b3cb97a,containerstore,Container Store,Palm Beach Gardens,11201 Legacy Ave,,Palm Beach Gardens,FL,33410,"11201 Legacy Ave Palm Beach Gardens, FL 33410",26.8400154,-80.0932123,7c090b0d
+33431_b7981215_containerstore_boca_raton,b7981215,containerstore,Container Store,Boca Raton,6000 Glades Road,Suite 1002,Boca Raton,FL,33431,"6000 Glades Road Boca Raton, FL 33431",26.3652588,-80.1327395,6095147c
+33009_9a18f239_containerstore_hallandale_beach,9a18f239,containerstore,Container Store,Hallandale Beach,500 Seabiscuit Trail,Suite 1005,Hallandale Beach,FL,33009,"500 Seabiscuit Trail Hallandale Beach, FL 33009",25.979591,-80.1406395,99baa423
+33156_ae9597e1_containerstore_miami,ae9597e1,containerstore,Container Store,Miami,7200 N. Kendall Drive,,Miami,FL,33156,"7200 N. Kendall Drive Miami, FL 33156",25.6878245,-80.3109519,f6a3156a
+28209_1aed736b_containerstore_charlotte,1aed736b,containerstore,Container Store,Charlotte,4345 Barclay Downs Dr,,Charlotte,NC,28209,"4345 Barclay Downs Dr Charlotte, NC 28209",35.1524675,-80.8338864,e018cc15
+32839_7d91464a_containerstore_orlando,7d91464a,containerstore,Container Store,Orlando,4088 Millenia Blvd,,Orlando,FL,32839,"4088 Millenia Blvd Orlando, FL 32839",28.4895673,-81.4283705,8744528d
+44122_e9b5e7ea_containerstore_beachwood,e9b5e7ea,containerstore,Container Store,Beachwood,2101 Richmond Rd,,Beachwood,OH,44122,"2101 Richmond Rd Beachwood, OH 44122",41.5005845,-81.4965224,28bdd41a
+33607_03934418_containerstore_tampa,03934418,containerstore,Container Store,Tampa,4720 W. Spruce Street,,Tampa,FL,33607,"4720 W. Spruce Street Tampa, FL 33607",27.9591327,-82.5254327,cf462b25
+43219_0a7989e6_containerstore_columbus,0a7989e6,containerstore,Container Store,Columbus,4184 Easton Gateway Drive,,Columbus,OH,43219,"4184 Easton Gateway Drive Columbus, OH 43219",40.0567197,-82.9070389,8a517552
+48083_463c20dc_containerstore_troy,463c20dc,containerstore,Container Store,Troy,805 E Big Beaver Rd,,Troy,MI,48083,"805 E Big Beaver Rd Troy, MI 48083",42.564155,-83.132021,a8247d62
+48377_f3176cb6_containerstore_novi,f3176cb6,containerstore,Container Store,Novi,43525 W. Oaks Dr,,Novi,MI,48377,"43525 W. Oaks Dr Novi, MI 48377",42.4900222,-83.4778577,15e0cc63
+30009_9fcf812e_containerstore_alpharetta,9fcf812e,containerstore,Container Store,Alpharetta,2740 Old Milton Pkwy,,Alpharetta,GA,30009,"2740 Old Milton Pkwy Alpharetta, GA 30009",34.0695128,-84.2793962,ca65f56e
+30346_1a5ef840_containerstore_atlanta,1a5ef840,containerstore,Container Store,Atlanta,120 Perimeter Center West,Suite 100,Atlanta,GA,30346,"120 Perimeter Center West Atlanta, GA 30346",33.9260802,-84.3432297,af45330d
+30319_d4687d86_containerstore_atlanta,d4687d86,containerstore,Container Store,Atlanta,3637 Peachtree Road,Suite C,Atlanta,GA,30319,"3637 Peachtree Road Atlanta, GA 30319",33.8534573,-84.3585195,55d4d4a0
+45236_c98e66ca_containerstore_cincinnati,c98e66ca,containerstore,Container Store,Cincinnati,5901 East Galbraith Road,Suite 130,Cincinnati,OH,45236,"5901 East Galbraith Road Cincinnati, OH 45236",39.2043025,-84.3736758,81bfbfbe
+46250_faf2390c_containerstore_indianapolis,faf2390c,containerstore,Container Store,Indianapolis,4120 E. 82nd St,,Indianapolis,IN,46250,"4120 E. 82nd St Indianapolis, IN 46250",39.9078048,-86.094833,11b99846
+37215_80cc362d_containerstore_nashville,80cc362d,containerstore,Container Store,Nashville,2121 Green Hills Village Dr,,Nashville,TN,37215,"2121 Green Hills Village Dr Nashville, TN 37215",36.1074305,-86.8146594,58076b36
+60605_9dcc30dc_containerstore_chicago,9dcc30dc,containerstore,Container Store,Chicago,150 W. Roosevelt Rd,,Chicago,IL,60605,"150 W. Roosevelt Rd Chicago, IL 60605",41.8688836,-87.6322919,89af2286
+60642_96072811_containerstore_chicago,96072811,containerstore,Container Store,Chicago,908 West North Avenue,,Chicago,IL,60642,"908 West North Avenue Chicago, IL 60642",41.9110445,-87.652379,466425a8
+60062_a338a750_containerstore_northbrook,a338a750,containerstore,Container Store,Northbrook,101 Skokie Blvd.,,Northbrook,IL,60062,"101 Skokie Blvd. Northbrook, IL 60062",42.1511247,-87.7990031,eafe491d
+60523_eb8b664c_containerstore_oak_brook,eb8b664c,containerstore,Container Store,Oak Brook,610 Oakbrook Center,,Oak Brook,IL,60523,"610 Oakbrook Center Oak Brook, IL 60523",41.8500234,-87.9516302,ee5158d9
+60173_327de4c6_containerstore_schaumburg,327de4c6,containerstore,Container Store,Schaumburg,1460 East Golf Road,,Schaumburg,IL,60173,"1460 East Golf Road Schaumburg, IL 60173",42.0527287,-88.0422691,3ce8ed96
+53226_f7b9416d_containerstore_wauwatosa,f7b9416d,containerstore,Container Store,Wauwatosa,10400 W. North Avenue,,Wauwatosa,WI,53226,"10400 W. North Avenue Wauwatosa, WI 53226",43.0606994,-88.0429567,41c6a05b
+38138_56785f0f_containerstore_germantown,56785f0f,containerstore,Container Store,Germantown,2130 Exeter Rd,Suite 103,Germantown,TN,38138,"2130 Exeter Rd Germantown, TN 38138",35.0907799,-89.8011737,0a2b0630
+63144_da8cd370_containerstore_st_louis,da8cd370,containerstore,Container Store,St. Louis,1769 S. Brentwood Blvd.,,St. Louis,MO,63144,"1769 S. Brentwood Blvd. St. Louis, MO 63144",38.625839,-90.3478468,28edb97a
+72205_086a4303_containerstore_little_rock,086a4303,containerstore,Container Store,Little Rock,209 North University Avenue,Suite 100,Little Rock,AR,72205,"209 North University Avenue Little Rock, AR 72205",34.7525889,-92.3389363,457a3650
+55435_322eb205_containerstore_edina,322eb205,containerstore,Container Store,Edina,3825 Gallagher Drive,,Edina,MN,55435,"3825 Gallagher Drive Edina, MN 55435",44.8704253,-93.3273628,23f8ef50
+50266_10bc3b01_containerstore_west_des_moines,10bc3b01,containerstore,Container Store,West Des Moines,5901 Mills Civic Pkwy,#4500,West Des Moines,IA,50266,"5901 Mills Civic Pkwy West Des Moines, IA 50266",41.5602683,-93.7879611,7432df86
+66209_be5d20d4_containerstore_overland_park,be5d20d4,containerstore,Container Store,Overland Park,4701 W. 119th St,,Overland Park,KS,66209,"4701 W. 119th St Overland Park, KS 66209",38.9124478,-94.6403132,d43d886f
+77546_c2d789af_containerstore_friendswood,c2d789af,containerstore,Container Store,Friendswood,18760 Gulf Freeway,,Friendswood,TX,77546,"18760 Gulf Freeway Friendswood, TX 77546",29.5469552,-95.1511601,73ebcabe
+77380_cbafc6ff_containerstore_the_woodlands,cbafc6ff,containerstore,Container Store,The Woodlands,1455 Lake Woodlands Drive,,The Woodlands,TX,77380,"1455 Lake Woodlands Drive The Woodlands, TX 77380",30.1672233,-95.4560763,e7e9f59f
+77056_142bb25e_containerstore_houston,142bb25e,containerstore,Container Store,Houston,2511 Post Oak Blvd.,,Houston,TX,77056,"2511 Post Oak Blvd. Houston, TX 77056",29.7415881,-95.4600071,5f97d079
+77069_278b8655_containerstore_houston,278b8655,containerstore,Container Store,Houston,5466 FM 1960 West,,Houston,TX,77069,"5466 FM 1960 West Houston, TX 77069",29.9816408,-95.5130995,dae7ccaa
+68114_a517cb43_containerstore_omaha,a517cb43,containerstore,Container Store,Omaha,10000 California St,Suite 2675,Omaha,NE,68114,"10000 California St Omaha, NE 68114",41.2668792,-96.0682503,b16f2447
+75069_b1d69e36_containerstore_fairview,b1d69e36,containerstore,Container Store,Fairview,151 East Stacy Road,,Fairview,TX,75069,"151 East Stacy Road Fairview, TX 75069",33.1310132,-96.6532832,49f5ccfe
+75225_b91c628c_containerstore_dallas,b91c628c,containerstore,Container Store,Dallas,7700 West Northwest Highway,,Dallas,TX,75225,"7700 West Northwest Highway Dallas, TX 75225",32.8643045,-96.7745361,265025d3
+75024_7ebae8f5_containerstore_plano,7ebae8f5,containerstore,Container Store,Plano,8460 Parkwood Blvd.,,Plano,TX,75024,"8460 Parkwood Blvd. Plano, TX 75024",33.0920532,-96.8124084,a3067489
+75240_d60b57f0_containerstore_dallas,d60b57f0,containerstore,Container Store,Dallas,13710 Dallas Parkway,Suite B,Dallas,TX,75240,"13710 Dallas Parkway Dallas, TX 75240",32.9340419,-96.8206918,a7e1dafe
+76018_ad0404ab_containerstore_arlington,ad0404ab,containerstore,Container Store,Arlington,4000 Arlington Highlands Blvd,Suite 101,Arlington,TX,76018,"4000 Arlington Highlands Blvd Arlington, TX 76018",32.679932,-97.109798,03b3eb0d
+76092_e2d943f5_containerstore_southlake,e2d943f5,containerstore,Container Store,Southlake,1200 Main Street,,Southlake,TX,76092,"1200 Main Street Southlake, TX 76092",32.9429858,-97.133406,8ac07951
+76107_3101e877_containerstore_fort_worth,3101e877,containerstore,Container Store,Fort Worth,4601 West Freeway,Suite 500,Fort Worth,TX,76107,"4601 West Freeway Fort Worth, TX 76107",32.7316189,-97.389055,4c6242af
+73112_5471959b_containerstore_oklahoma_city,5471959b,containerstore,Container Store,Oklahoma City,5644 N. Pennsylvania Ave.,,Oklahoma City,OK,73112,"5644 N. Pennsylvania Ave. Oklahoma City, OK 73112",35.5279001,-97.546981,4f9ea313
+78759_ba44b352_containerstore_austin,ba44b352,containerstore,Container Store,Austin,9629 Research Blvd.,,Austin,TX,78759,"9629 Research Blvd. Austin, TX 78759",30.3896356,-97.7434527,50b55611
+78216_5dc1799d_containerstore_san_antonio,5dc1799d,containerstore,Container Store,San Antonio,333 NW Loop 410,,San Antonio,TX,78216,"333 NW Loop 410 San Antonio, TX 78216",29.522611,-98.498396,47cc37a0
+80920_1df808bb_containerstore_colorado_springs,1df808bb,containerstore,Container Store,Colorado Springs,1925 Briargate Pkwy,Ste. 611,Colorado Springs,CO,80920,"1925 Briargate Pkwy Colorado Springs, CO 80920",38.9639775,-104.7922973,9c8fc918
+80124_91182978_containerstore_lone_tree,91182978,containerstore,Container Store,Lone Tree,8687 Park Meadows Center Drive,,Lone Tree,CO,80124,"8687 Park Meadows Center Drive Lone Tree, CO 80124",39.5594483,-104.8777068,993de028
+80206_64f5be30_containerstore_denver,64f5be30,containerstore,Container Store,Denver,3110 E. First Ave,Suite 2010,Denver,CO,80206,"3110 E. First Ave Denver, CO 80206",39.7173062,-104.951206,4424e8d5
+80021_9fed7268_containerstore_broomfield,9fed7268,containerstore,Container Store,Broomfield,51 W. FlatIron Crossing Dr.,#ANC02,Broomfield,CO,80021,"51 W. FlatIron Crossing Dr. Broomfield, CO 80021",39.9312215,-105.1320537,223eb9c0
+87110_c61e5845_containerstore_albuquerque,c61e5845,containerstore,Container Store,Albuquerque,6600 Menaul Blvd,,Albuquerque,NM,87110,"6600 Menaul Blvd Albuquerque, NM 87110",35.105509,-106.5693718,6dff7867
+85705_edfb4511_containerstore_tucson,edfb4511,containerstore,Container Store,Tucson,4500 N. Oracle Rd,,Tucson,AZ,85705,"4500 N. Oracle Rd Tucson, AZ 85705",32.2885001,-110.9741348,4ba7c34f
+84107_58bea564_containerstore_murray,58bea564,containerstore,Container Store,Murray,6191 S. State St,Suite 400,Murray,UT,84107,"6191 S. State St Murray, UT 84107",40.6361941,-111.8878794,c37ba714
+85054_5342ca60_containerstore_phoenix,5342ca60,containerstore,Container Store,Phoenix,18550 North Scottsdale Road,,Phoenix,AZ,85054,"18550 North Scottsdale Road Phoenix, AZ 85054",33.6537229,-111.9266318,780eee43
+85016_b6f379d3_containerstore_phoenix,b6f379d3,containerstore,Container Store,Phoenix,4949 N. 20th Street,,Phoenix,AZ,85016,"4949 N. 20th Street Phoenix, AZ 85016",33.5082377,-112.0385548,4752b974
+85308_64040768_containerstore_glendale,64040768,containerstore,Container Store,Glendale,7580 W. Bell Rd,,Glendale,AZ,85308,"7580 W. Bell Rd Glendale, AZ 85308",33.6398132,-112.2223196,1919fdf3
+89119_db2c2e46_containerstore_las_vegas,db2c2e46,containerstore,Container Store,Las Vegas,6521 Las Vegas Blvd South,C-103,Las Vegas,NV,89119,"6521 Las Vegas Blvd South Las Vegas, NV 89119",36.0702638,-115.1721595,8ebb22e4
+92108_675d825e_containerstore_san_diego,675d825e,containerstore,Container Store,San Diego,7097 Friars Road,,San Diego,CA,92108,"7097 Friars Road San Diego, CA 92108",32.769873,-117.1625497,983f9092
+92626_e86fbc3b_containerstore_costa_mesa,e86fbc3b,containerstore,Container Store,Costa Mesa,901-G South Coast Drive,,Costa Mesa,CA,92626,"901-G South Coast Drive Costa Mesa, CA 92626",33.6889044,-117.8929081,58881bec
+91103_e53b85f3_containerstore_pasadena,e53b85f3,containerstore,Container Store,Pasadena,One East Union Street,,Pasadena,CA,91103,"One East Union Street Pasadena, CA 91103",34.1467959,-118.1476647,e002ffdf
+90036_440e9988_containerstore_los_angeles,440e9988,containerstore,Container Store,Los Angeles,110 S. Fairfax Ave.,A-17,Los Angeles,CA,90036,"110 S. Fairfax Ave. Los Angeles, CA 90036",34.0736848,-118.3608362,9adff025
+90245_cc708c54_containerstore_el_segundo,cc708c54,containerstore,Container Store,El Segundo,710 S Pacific Coast Hwy,,El Segundo,CA,90245,"710 S Pacific Coast Hwy El Segundo, CA 90245",33.8299711,-118.3848356,045df20f
+90067_9d2ac09c_containerstore_los_angeles,9d2ac09c,containerstore,Container Store,Los Angeles,10250 Santa Monica Blvd.,Suite 218,Los Angeles,CA,90067,"10250 Santa Monica Blvd. Los Angeles, CA 90067",34.0590031,-118.418866,7bd0917b
+93036_5bf4b554_containerstore_oxnard,5bf4b554,containerstore,Container Store,Oxnard,450 Town Center Drive,,Oxnard,CA,93036,"450 Town Center Drive Oxnard, CA 93036",34.2385178,-119.1767673,06d4ca2e
+95825_7f9ae68b_containerstore_sacramento,7f9ae68b,containerstore,Container Store,Sacramento,2030 Arden Way,,Sacramento,CA,95825,"2030 Arden Way Sacramento, CA 95825",38.5957421,-121.4182069,277e29f9
+95128_ed5595db_containerstore_san_jose,ed5595db,containerstore,Container Store,San Jose,3080 Stevens Creek Blvd.,Suite 1000,San Jose,CA,95128,"3080 Stevens Creek Blvd. San Jose, CA 95128",37.3231355,-121.9490732,1ae1528a
+94596_961f8c3c_containerstore_walnut_creek,961f8c3c,containerstore,Container Store,Walnut Creek,1100 Locust Street,,Walnut Creek,CA,94596,"1100 Locust Street Walnut Creek, CA 94596",37.8952236,-122.0605735,001fbaeb
+94304_ca21ec52_containerstore_palo_alto,ca21ec52,containerstore,Container Store,Palo Alto,500 Stanford Shopping Center,,Palo Alto,CA,94304,"500 Stanford Shopping Center Palo Alto, CA 94304",37.4388322,-122.1726498,e4314d90
+98004_3dee3d82_containerstore_bellevue,3dee3d82,containerstore,Container Store,Bellevue,700 Bellevue Way N.E.,Suite 120,Bellevue,WA,98004,"700 Bellevue Way N.E. Bellevue, WA 98004",47.6172049,-122.2013418,64ba05c6
+98188_e1c97989_containerstore_tukwila,e1c97989,containerstore,Container Store,Tukwila,2437 Southcenter Mall,,Tukwila,WA,98188,"2437 Southcenter Mall Tukwila, WA 98188",47.4588849,-122.257964,8fecc902
+94103_10a5081e_containerstore_san_francisco,10a5081e,containerstore,Container Store,San Francisco,26 Fourth Street,,San Francisco,CA,94103,"26 Fourth Street San Francisco, CA 94103",37.7846195,-122.4055789,f3c944fd
+94925_785c7182_containerstore_corte_madera,785c7182,containerstore,Container Store,Corte Madera,219 Corte Madera Town Center,,Corte Madera,CA,94925,"219 Corte Madera Town Center Corte Madera, CA 94925",37.9285403,-122.5170309,2f125d2a
+97224_a5d84fdd_containerstore_tigard,a5d84fdd,containerstore,Container Store,Tigard,7417 SW Bridgeport Road,,Tigard,OR,97224,"7417 SW Bridgeport Road Tigard, OR 97224",45.3957385,-122.7536101,330e7a23
+02072_95b6301d_ikea_stoughton,95b6301d,ikea,IKEA,Stoughton,One IKEA Way,,Stoughton,MA,02072,"One IKEA Way Stoughton, MA 02072",42.1371268,-71.0684562,8835bb43
+06511_55f8f7f1_ikea_new_haven,55f8f7f1,ikea,IKEA,New Haven,450 Sargent Drive,,New Haven,CT,06511,"450 Sargent Drive New Haven, CT 06511",41.2958017,-72.9200335,5dbd53d2
+11801_c8dcfd18_ikea_long_island,c8dcfd18,ikea,IKEA,Long Island,1100 Broadway Mall,,Hicksville,NY,11801,"1100 Broadway Mall Hicksville, NY 11801",40.7748383,-73.5310569,84cf2c6b
+11374_0f783fe4_ikea_queens,0f783fe4,ikea,IKEA,Queens,96-05 Queens Blvd,,Queens,NY,11374,"96-05 Queens Blvd Queens, NY 11374",40.731424,-73.8618461,8293f0b6
+11231_ef6e863d_ikea_brooklyn,ef6e863d,ikea,IKEA,Brooklyn,1 Beard Street,,Brooklyn,NY,11231,"1 Beard Street Brooklyn, NY 11231",40.672219,-74.0115416,2010e7b4
+07652_31cd4c48_ikea_paramus,31cd4c48,ikea,IKEA,Paramus,100 IKEA Drive,,Paramus,NJ,07652,"100 IKEA Drive Paramus, NJ 07652",40.9245349,-74.0732861,54360084
+07201_ee8cbff0_ikea_elizabeth,ee8cbff0,ikea,IKEA,Elizabeth,1000 Center Drive,,Elizabeth,NJ,07201,"1000 Center Drive Elizabeth, NJ 07201",40.6751301,-74.1697393,2d21619f
+19148_69482fa0_ikea_south_philadelphia,69482fa0,ikea,IKEA,South Philadelphia,2206 S. Christopher Columbus Blvd,,Philadelphia,PA,19148,"2206 S. Christopher Columbus Blvd Philadelphia, PA 19148",39.9171256,-75.1417686,1bb90c9e
+19428_01f275e2_ikea_conshohocken,01f275e2,ikea,IKEA,Conshohocken,400 Alan Wood Road,,Conshohocken,PA,19428,"400 Alan Wood Road Conshohocken, PA 19428",40.0943896,-75.3067793,a6e7fc32
+23502_4377cca2_ikea_norfolk,4377cca2,ikea,IKEA,Norfolk,1500 IKEA Way,,Norfolk,VA,23502,"1500 IKEA Way Norfolk, VA 23502",36.8760812,-76.2013761,27e7e501
+21236_594af003_ikea_baltimore,594af003,ikea,IKEA,Baltimore,8352 Honeygo Boulevard,,Baltimore,MD,21236,"8352 Honeygo Boulevard Baltimore, MD 21236",39.3753517,-76.4619125,668bb59b
+20740_28adb344_ikea_college_park,28adb344,ikea,IKEA,College Park,10100 Baltimore Avenue,,College Park,MD,20740,"10100 Baltimore Avenue College Park, MD 20740",39.0206756,-76.928835,279f7dca
+22192_6404768a_ikea_woodbridge,6404768a,ikea,IKEA,Woodbridge,2900 Potomac Mills Circle,,Woodbridge,VA,22192,"2900 Potomac Mills Circle Woodbridge, VA 22192",38.6450421,-77.2898272,dd99c065
+15205_19c3b0a3_ikea_pittsburgh,19c3b0a3,ikea,IKEA,Pittsburgh,2001 Park Manor Boulevard,,Pittsburgh,PA,15205,"2001 Park Manor Boulevard Pittsburgh, PA 15205",40.4517367,-80.1681502,eb07b8c6
+33325_8e0e59ee_ikea_sunrise,8e0e59ee,ikea,IKEA,Sunrise,151 NW 136th Ave,,Sunrise,FL,33325,"151 NW 136th Ave Sunrise, FL 33325",26.122275,-80.33035,afc42414
+33172_18630354_ikea_miami,18630354,ikea,IKEA,Miami,1801 NW 117th Ave,,Sweetwater,FL,33172,"1801 NW 117th Ave Sweetwater, FL 33172",25.7914278,-80.3836105,a28ee69d
+28262_4ba22ce6_ikea_charlotte,4ba22ce6,ikea,IKEA,Charlotte,8300 IKEA Boulevard,,Charlotte,NC,28262,"8300 IKEA Boulevard Charlotte, NC 28262",35.29331,-80.7650357,1486ccd7
+32839_72ced137_ikea_orlando,72ced137,ikea,IKEA,Orlando,4092 Eastgate Dr,,Orlando,FL,32839,"4092 Eastgate Dr Orlando, FL 32839",28.4829579,-81.4266415,73b6fd43
+32256_7a6531c4_ikea_jacksonville,7a6531c4,ikea,IKEA,Jacksonville,7801 Gate Pkwy,,Jacksonville,FL,32256,"7801 Gate Pkwy Jacksonville, FL 32256",30.2374622,-81.5167824,b503ace8
+33605_b37fce17_ikea_tampa,b37fce17,ikea,IKEA,Tampa,1103 N. 22nd Street,,Tampa,FL,33605,"1103 N. 22nd Street Tampa, FL 33605",27.9542754,-82.4316019,ff2fceea
+43240_01f2d81a_ikea_columbus,01f2d81a,ikea,IKEA,Columbus,1900 IKEA Way,,Columbus,OH,43240,"1900 IKEA Way Columbus, OH 43240",40.1501367,-82.9667899,1c4cd453
+48187_89967228_ikea_canton,89967228,ikea,IKEA,Canton,41640 Ford Road,,Canton,MI,48187,"41640 Ford Road Canton, MI 48187",42.3252624,-83.4513499,99a9ba9e
+30363_6e054908_ikea_atlanta,6e054908,ikea,IKEA,Atlanta,441 16th Street,,Atlanta,GA,30363,"441 16th Street Atlanta, GA 30363",33.7888368,-84.4051193,c25da3b7
+45069_f7b33192_ikea_west_chester,f7b33192,ikea,IKEA,West Chester,9500 IKEA Way,,West Chester,OH,45069,"9500 IKEA Way West Chester, OH 45069",39.3154678,-84.4339977,a580a945
+46037_3a3ccf21_ikea_fishers,3a3ccf21,ikea,IKEA,Fishers,11400 IKEA Way,,Fishers,IN,46037,"11400 IKEA Way Fishers, IN 46037",39.9534162,-86.0073736,9a727bf0
+53154_3a773c6e_ikea_oak_creek,3a773c6e,ikea,IKEA,Oak Creek,7500 S. IKEA Way,,Oak Creek,WI,53154,"7500 S. IKEA Way Oak Creek, WI 53154",42.9076915,-87.9386886,d7174bc5
+60173_362b13c8_ikea_schaumburg,362b13c8,ikea,IKEA,Schaumburg,1800 East McConner Parkway,,Schaumburg,IL,60173,"1800 East McConner Parkway Schaumburg, IL 60173",42.0566646,-88.0365045,de8090c9
+60440_6ebb61ab_ikea_bolingbrook,6ebb61ab,ikea,IKEA,Bolingbrook,750 E. Boughton,,Bolingbrook,IL,60440,"750 E. Boughton Bolingbrook, IL 60440",41.7280902,-88.037837,a4b6e8fa
+38016_79c45bd2_ikea_memphis,79c45bd2,ikea,IKEA,Memphis,7900 IKEA Way,,Memphis,TN,38016,"7900 IKEA Way Memphis, TN 38016",35.1902921,-89.7986837,7985c2e2
+63108_1f8197c4_ikea_st_louis,1f8197c4,ikea,IKEA,St. Louis,1 IKEA Way,,St. Louis,MO,63108,"1 IKEA Way St. Louis, MO 63108",38.6335827,-90.2449962,a5483b3d
+55425_e988aec5_ikea_twin_cities,e988aec5,ikea,IKEA,Twin Cities,8000 IKEA Way,,Bloomington,MN,55425,"8000 IKEA Way Bloomington, MN 55425",44.8586403,-93.2448492,fb82a19a
+66202_79990e7d_ikea_merriam,79990e7d,ikea,IKEA,Merriam,6000 IKEA Way,,Merriam,KS,66202,"6000 IKEA Way Merriam, KS 66202",39.019658,-94.6905789,e37e22cd
+77024_34e69786_ikea_houston,34e69786,ikea,IKEA,Houston,7810 Katy Freeway,,Houston,TX,77024,"7810 Katy Freeway Houston, TX 77024",29.7855758,-95.4715555,da6efd18
+75034_c91e242a_ikea_frisco,c91e242a,ikea,IKEA,Frisco,7171 IKEA Drive,,Frisco,TX,75034,"7171 IKEA Drive Frisco, TX 75034",33.0937506,-96.8213668,e5532f76
+75052_3dad30c4_ikea_grand_prairie,3dad30c4,ikea,IKEA,Grand Prairie,1000 IKEA Way,,Grand Prairie,TX,75052,"1000 IKEA Way Grand Prairie, TX 75052",32.6906294,-97.022627,fd9ba977
+78665_f52f56d9_ikea_round_rock,f52f56d9,ikea,IKEA,Round Rock,1 IKEA Way,,Round Rock,TX,78665,"1 IKEA Way Round Rock, TX 78665",30.5578282,-97.6897453,564745df
+78233_49e9378a_ikea_live_oak,49e9378a,ikea,IKEA,Live Oak,1000 IKEA RBFCU Parkway,,Live Oak,TX,78233,"1000 IKEA RBFCU Parkway Live Oak, TX 78233",29.5665157,-98.3381062,22fa595d
+80112_0339e4aa_ikea_centennial,0339e4aa,ikea,IKEA,Centennial,9800 E. IKEA Way,,Centennial,CO,80112,"9800 E. IKEA Way Centennial, CO 80112",39.5720848,-104.8750157,65dae7a3
+84020_2cd51b59_ikea_draper,2cd51b59,ikea,IKEA,Draper,67 West IKEA Way,,Draper,UT,84020,"67 West IKEA Way Draper, UT 84020",40.5086171,-111.8931892,b1eeb152
+85284_412cfb81_ikea_tempe,412cfb81,ikea,IKEA,Tempe,2110 West IKEA Way,,Tempe,AZ,85284,"2110 West IKEA Way Tempe, AZ 85284",33.3409062,-111.9703209,4799dcf2
+89148_51c3ae71_ikea_las_vegas,51c3ae71,ikea,IKEA,Las Vegas,6500 IKEA Way,,Las Vegas,NV,89148,"6500 IKEA Way Las Vegas, NV 89148",36.0688447,-115.2806099,83d9fb41
+92108_ced584e5_ikea_san_diego,ced584e5,ikea,IKEA,San Diego,2149 Fenton Parkway,,San Diego,CA,92108,"2149 Fenton Parkway San Diego, CA 92108",32.7801705,-117.1262915,1edf47b2
+91723_1030da1b_ikea_covina,1030da1b,ikea,IKEA,Covina,848 South Barranca Avenue,,Covina,CA,91723,"848 South Barranca Avenue Covina, CA 91723",34.0744813,-117.8791263,31c5199d
+92626_d49c5264_ikea_costa_mesa,d49c5264,ikea,IKEA,Costa Mesa,1475 South Coast Drive,,Costa Mesa,CA,92626,"1475 South Coast Drive Costa Mesa, CA 92626",33.6910441,-117.9162956,8a9963ed
+90746_d07af19c_ikea_carson,d07af19c,ikea,IKEA,Carson,20700 South Avalon Boulevard,,Carson,CA,90746,"20700 South Avalon Boulevard Carson, CA 90746",33.8421187,-118.2605881,96a2a376
+91502_4548afae_ikea_burbank,4548afae,ikea,IKEA,Burbank,600 South IKEA Way,,Burbank,CA,91502,"600 South IKEA Way Burbank, CA 91502",34.1748067,-118.3035453,0cf37596
+95605_75161089_ikea_west_sacramento,75161089,ikea,IKEA,West Sacramento,700 IKEA Court,,West Sacramento,CA,95605,"700 IKEA Court West Sacramento, CA 95605",38.5864966,-121.5535913,98dd48c8
+94303_b4f11452_ikea_east_palo_alto,b4f11452,ikea,IKEA,East Palo Alto,1700 East Bayshore Road,,East Palo Alto,CA,94303,"1700 East Bayshore Road East Palo Alto, CA 94303",37.4611767,-122.1394766,8430ad48
+98057_fbaf88ff_ikea_renton,fbaf88ff,ikea,IKEA,Renton,601 S.W. 41st Street,,Renton,WA,98057,"601 S.W. 41st Street Renton, WA 98057",47.4426763,-122.2280158,8284e720
+94608_340b25b4_ikea_emeryville,340b25b4,ikea,IKEA,Emeryville,4400 Shellmound Street,,Emeryville,CA,94608,"4400 Shellmound Street Emeryville, CA 94608",37.8317539,-122.2919709,ad6b04aa
+97220_021db027_ikea_portland,021db027,ikea,IKEA,Portland,10280 NE Cascades Parkway,,Portland,OR,97220,"10280 NE Cascades Parkway Portland, OR 97220",45.5712001,-122.5535877,67aeedea
+02139_a8c86585_microcenter_cambridge,a8c86585,microcenter,Micro Center,Cambridge,730 Memorial Dr,,Cambridge,MA,02139,"730 Memorial Dr Cambridge, MA 02139",42.3572095,-71.1143075,53955536
+11590_fe90aeea_microcenter_westbury,fe90aeea,microcenter,Micro Center,Westbury,655 Merrick Ave,,Westbury,NY,11590,"655 Merrick Ave Westbury, NY 11590",40.7395606,-73.5858212,6cc4fae8
+11367_acae5b22_microcenter_flushing,acae5b22,microcenter,Micro Center,Flushing,71-43 Kissena Blvd,,Queens,NY,11367,"71-43 Kissena Blvd Queens, NY 11367",40.728866,-73.8150369,fd5032d3
+10704_7872e229_microcenter_yonkers,7872e229,microcenter,Micro Center,Yonkers,750-A Central Park Ave,,Yonkers,NY,10704,"750-A Central Park Ave Yonkers, NY 10704",40.9248553,-73.8562871,64c6cfec
+11232_e890c163_microcenter_brooklyn,e890c163,microcenter,Micro Center,Brooklyn,850 3rd Ave,,Brooklyn,NY,11232,"850 3rd Ave Brooklyn, NY 11232",40.6588044,-74.003448,071546f7
+07504_0bf54b7c_microcenter_north_jersey,0bf54b7c,microcenter,Micro Center,North Jersey,263 McLean Blvd,Route 20 Retail Center,Paterson,NJ,07504,"263 McLean Blvd Paterson, NJ 07504",40.9068688,-74.1332633,d8330813
+19087_bd3dd09d_microcenter_st_davids,bd3dd09d,microcenter,Micro Center,St. Davids,550 E Lancaster Ave Ste C,,St Davids,PA,19087,"550 E Lancaster Ave Ste C St Davids, PA 19087",40.0401182,-75.3694827,853535a4
+21234_1b13ca05_microcenter_parkville,1b13ca05,microcenter,Micro Center,Parkville,1957 E Joppa Rd,,Parkville,MD,21234,"1957 E Joppa Rd Parkville, MD 21234",39.3969616,-76.5454815,529c2dcd
+20852_809ef867_microcenter_rockville,809ef867,microcenter,Micro Center,Rockville,1776 E Jefferson ST Ste 203,,Rockville,MD,20852,"1776 E Jefferson ST Ste 203 Rockville, MD 20852",39.0572258,-77.1245166,b6605067
+22031_2714330e_microcenter_fairfax,2714330e,microcenter,Micro Center,Fairfax,3089 Nutley St,,Fairfax,VA,22031,"3089 Nutley St Fairfax, VA 22031",38.8689425,-77.2615284,fd2617cf
+44124_3d3546eb_microcenter_mayfield_heights,3d3546eb,microcenter,Micro Center,Mayfield Heights,1349 Som Center Rd,Eastgate Shopping Center,Mayfield Heights,OH,44124,"1349 Som Center Rd Mayfield Heights, OH 44124",41.5239851,-81.4373282,6c32959d
+43214_4b802509_microcenter_columbus,4b802509,microcenter,Micro Center,Columbus,747 Bethel Rd,,Columbus,OH,43214,"747 Bethel Rd Columbus, OH 43214",40.0623713,-83.0408365,5981b0b6
+48071_d645d210_microcenter_madison_heights,d645d210,microcenter,Micro Center,Madison Heights,32800 Concord Dr,,Madison Heights,MI,48071,"32800 Concord Dr Madison Heights, MI 48071",42.5329448,-83.1145486,8fbfc80e
+30096_3b0493bb_microcenter_duluth,3b0493bb,microcenter,Micro Center,Duluth,2340 Pleasant Hill Rd,,Duluth,GA,30096,"2340 Pleasant Hill Rd Duluth, GA 30096",33.9642783,-84.1374123,11bb8aed
+45241_0806c60d_microcenter_sharonville,0806c60d,microcenter,Micro Center,Sharonville,11755 Mosteller Rd,,Sharonville,OH,45241,"11755 Mosteller Rd Sharonville, OH 45241",39.2882802,-84.4298998,c4a49b9a
+30067_ccdc41d1_microcenter_marietta,ccdc41d1,microcenter,Micro Center,Marietta,1275 Powers Ferry Rd SE Ste 50,,Marietta,GA,30067,"1275 Powers Ferry Rd SE Ste 50 Marietta, GA 30067",33.9211202,-84.4662105,9793eab7
+60647_582c4497_microcenter_chicago,582c4497,microcenter,Micro Center,Chicago,2645 N Elston Ave,,Chicago,IL,60647,"2645 N Elston Ave Chicago, IL 60647",41.9306749,-87.6826906,61ee4018
+60559_e20f2766_microcenter_westmont,e20f2766,microcenter,Micro Center,Westmont,80 E Ogden Ave,,Westmont,IL,60559,"80 E Ogden Ave Westmont, IL 60559",41.8113505,-87.9725279,f05d216a
+63144_634d6104_microcenter_brentwood,634d6104,microcenter,Micro Center,Brentwood,87 Brentwood Promenade Ct,,Brentwood,MO,63144,"87 Brentwood Promenade Ct Brentwood, MO 63144",38.6261802,-90.3432893,4579cc6a
+55416_c57752a7_microcenter_st_louis_park,c57752a7,microcenter,Micro Center,St. Louis Park,3710 Highway 100 South,,St. Louis Park,MN,55416,"3710 Highway 100 South St. Louis Park, MN 55416",44.9502596,-93.3477824,e2c767ee
+66212_938d4019_microcenter_overland_park,938d4019,microcenter,Micro Center,Overland Park,9294 Metcalf Ave,Regency Park Shopping Center,Overland Park,KS,66212,"9294 Metcalf Ave Overland Park, KS 66212",38.9605464,-94.6701763,f0814bdf
+77081_ac74d2f5_microcenter_houston,ac74d2f5,microcenter,Micro Center,Houston,5305 S Rice Ave,,Houston,TX,77081,"5305 S Rice Ave Houston, TX 77081",29.7249018,-95.46657,88cf93a5
+75243_1f0eea52_microcenter_dallas,1f0eea52,microcenter,Micro Center,Dallas,13929 N Central Expy,,Dallas,TX,75243,"13929 N Central Expy Dallas, TX 75243",32.9374633,-96.7503193,6b24766a
+80237_f9a36abc_microcenter_denver,f9a36abc,microcenter,Micro Center,Denver,8000 E Quincy Ave,,Denver,CO,80237,"8000 E Quincy Ave Denver, CO 80237",39.6382964,-104.8973215,6b784f8b
+92780_82753ef0_microcenter_tustin,82753ef0,microcenter,Micro Center,Tustin,1100 E Edinger Ave,,Tustin,CA,92780,"1100 E Edinger Ave Tustin, CA 92780",33.7245358,-117.8328829,6d175392

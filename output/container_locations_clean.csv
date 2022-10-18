@@ -1,0 +1,96 @@
+,store_name,store_add1,store_add2,store_city,store_state,store_zip
+0,Glendale,7580 W. Bell Rd,,Glendale,AZ,85308
+1,Richmond,11732 W Broad St,Suite PP1B,Richmond,VA,23233
+2,Reston,1851 Fountain Dr.,,Reston,VA,20190
+3,Arlington,2800 Clarendon Blvd.,R-750,Arlington,VA,22201
+4,Murray,6191 S. State St,Suite 400,Murray,UT,84107
+5,The Woodlands,1455 Lake Woodlands Drive,,The Woodlands,TX,77380
+6,Southlake,1200 Main Street,,Southlake,TX,76092
+7,San Antonio,333 NW Loop 410,,San Antonio,TX,78216
+8,Plano,8460 Parkwood Blvd.,,Plano,TX,75024
+9,Houston,5466 FM 1960 West,,Houston,TX,77069
+10,Houston,2511 Post Oak Blvd.,,Houston,TX,77056
+11,Fort Worth,4601 West Freeway,Suite 500,Fort Worth,TX,76107
+12,Fairview,151 East Stacy Road,,Fairview,TX,75069
+13,Dallas,7700 West Northwest Highway,,Dallas,TX,75225
+14,Dallas,13710 Dallas Parkway,Suite B,Dallas,TX,75240
+15,Friendswood,18760 Gulf Freeway,,Friendswood,TX,77546
+16,Wauwatosa,10400 W. North Avenue,,Wauwatosa,WI,53226
+17,Tukwila,2437 Southcenter Mall,,Tukwila,WA,98188
+18,Bellevue,700 Bellevue Way N.E.,Suite 120,Bellevue,WA,98004
+19,Vienna,8459 Leesburg Pike,,Vienna,VA,22182
+20,Austin,9629 Research Blvd.,,Austin,TX,78759
+21,Arlington,4000 Arlington Highlands Blvd,Suite 101,Arlington,TX,76018
+22,Nashville,2121 Green Hills Village Dr,,Nashville,TN,37215
+23,Germantown,2130 Exeter Rd,Suite 103,Germantown,TN,38138
+24,Cranston,150 Hillside Rd,,Cranston,RI,02920
+25,Pittsburgh,8033 McKnight Road,,Pittsburgh,PA,15237
+26,King of Prussia,650 W. Dekalb Pike,,King of Prussia,PA,19406
+27,Tigard,7417 SW Bridgeport Road,,Tigard,OR,97224
+28,Oklahoma City,5644 N. Pennsylvania Ave.,,Oklahoma City,OK,73112
+29,Columbus,4184 Easton Gateway Drive,,Columbus,OH,43219
+30,Beachwood,2101 Richmond Rd,,Beachwood,OH,44122
+31,Cincinnati,5901 East Galbraith Road,Suite 130,Cincinnati,OH,45236
+32,Raleigh,4601 Creedmoor Rd,Suite 100,Raleigh,NC,27612
+33,Charlotte,4345 Barclay Downs Dr,,Charlotte,NC,28209
+34,Yonkers,48 Market Street,,Yonkers,NY,10710
+35,White Plains,145 Westchester Avenue,,White Plains,NY,10601
+36,Garden City,902 Old Country Rd,,Garden City,NY,11530
+37,Staten Island,283 Platinum Ave,Suite 1365,Staten Island,NY,10314
+38,New York,629 Sixth Avenue,,New York,NY,10011
+39,Albuquerque,6600 Menaul Blvd,,Albuquerque,NM,87110
+40,Paramus,370 Route 17,#1,Paramus,NJ,07652
+41,Livingston,372 W. Mount Pleasant Ave,,Livingston,NJ,07039
+42,Cherry Hill,2000 Route 38,OP-2,Cherry Hill,NJ,08002
+43,Bound Brook,335 Chimney Rock Rd,,Bound Brook,NJ,08805
+44,Las Vegas,6521 Las Vegas Blvd South,C-103,Las Vegas,NV,89119
+45,Omaha,10000 California St,Suite 2675,Omaha,NE,68114
+46,St. Louis,1769 S. Brentwood Blvd.,,St. Louis,MO,63144
+47,Edina,3825 Gallagher Drive,,Edina,MN,55435
+48,Troy,805 E Big Beaver Rd,,Troy,MI,48083
+49,Novi,43525 W. Oaks Dr,,Novi,MI,48377
+50,Peabody,210 Andover Street,LL01,Peabody,MA,01960
+51,Natick,1265 Worcester Street,,Natick,MA,01760
+52,Chestnut Hill,55 Boylston St,,Chestnut Hill,MA,02467
+53,Rockville,1601 Rockville Pike,,Rockville,MD,20852
+54,Annapolis,2280 Annapolis Mall,,Annapolis,MD,21401
+55,Overland Park,4701 W. 119th St,,Overland Park,KS,66209
+56,West Des Moines,5901 Mills Civic Pkwy,#4500,West Des Moines,IA,50266
+57,Indianapolis,4120 E. 82nd St,,Indianapolis,IN,46250
+58,Schaumburg,1460 East Golf Road,,Schaumburg,IL,60173
+59,Oak Brook,610 Oakbrook Center,,Oak Brook,IL,60523
+60,Northbrook,101 Skokie Blvd.,,Northbrook,IL,60062
+61,Chicago,150 W. Roosevelt Rd,,Chicago,IL,60605
+62,Chicago,908 West North Avenue,,Chicago,IL,60642
+63,Atlanta,120 Perimeter Center West,Suite 100,Atlanta,GA,30346
+64,Atlanta,3637 Peachtree Road,Suite C,Atlanta,GA,30319
+65,Alpharetta,2740 Old Milton Pkwy,,Alpharetta,GA,30009
+66,Tampa,4720 W. Spruce Street,,Tampa,FL,33607
+67,Palm Beach Gardens,11201 Legacy Ave,,Palm Beach Gardens,FL,33410
+68,Orlando,4088 Millenia Blvd,,Orlando,FL,32839
+69,Miami,7200 N. Kendall Drive,,Miami,FL,33156
+70,Hallandale Beach,500 Seabiscuit Trail,Suite 1005,Hallandale Beach,FL,33009
+71,Boca Raton,6000 Glades Road,Suite 1002,Boca Raton,FL,33431
+72,Washington,4500 Wisconsin Avenue,,Washington,DC,20016
+73,Newark,2200 Fashion Center Blvd,,Newark,DE,19702
+74,Lone Tree,8687 Park Meadows Center Drive,,Lone Tree,CO,80124
+75,Broomfield,51 W. FlatIron Crossing Dr.,#ANC02,Broomfield,CO,80021
+76,Colorado Springs,1925 Briargate Pkwy,Ste. 611,Colorado Springs,CO,80920
+77,Denver,3110 E. First Ave,Suite 2010,Denver,CO,80206
+78,Walnut Creek,1100 Locust Street,,Walnut Creek,CA,94596
+79,San Jose,3080 Stevens Creek Blvd.,Suite 1000,San Jose,CA,95128
+80,San Francisco,26 Fourth Street,,San Francisco,CA,94103
+81,San Diego,7097 Friars Road,,San Diego,CA,92108
+82,Sacramento,2030 Arden Way,,Sacramento,CA,95825
+83,Pasadena,One East Union Street,,Pasadena,CA,91103
+84,Palo Alto,500 Stanford Shopping Center,,Palo Alto,CA,94304
+85,Oxnard,450 Town Center Drive,,Oxnard,CA,93036
+86,Los Angeles,110 S. Fairfax Ave.,A-17,Los Angeles,CA,90036
+87,El Segundo,710 S Pacific Coast Hwy,,El Segundo,CA,90245
+88,Costa Mesa,901-G South Coast Drive,,Costa Mesa,CA,92626
+89,Corte Madera,219 Corte Madera Town Center,,Corte Madera,CA,94925
+90,Los Angeles,10250 Santa Monica Blvd.,Suite 218,Los Angeles,CA,90067
+91,Little Rock,209 North University Avenue,Suite 100,Little Rock,AR,72205
+92,Tucson,4500 N. Oracle Rd,,Tucson,AZ,85705
+93,Phoenix,18550 North Scottsdale Road,,Phoenix,AZ,85054
+94,Phoenix,4949 N. 20th Street,,Phoenix,AZ,85016
