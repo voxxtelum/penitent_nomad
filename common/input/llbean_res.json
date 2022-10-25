@@ -1,0 +1,3931 @@
+[
+  {
+    "id": 1190,
+    "fulfillmentSite": "1190",
+    "storeName": "Brookfield Retail Store",
+    "shoppingCenter": "The Corners Of Brookfield",
+    "address": {
+      "addressLine1": "20200 Union Street",
+      "city": "Brookfield",
+      "jurisdictionCode": "WI",
+      "postalCode": "53045"
+    },
+    "phoneNumber": "1-888-534-5812",
+    "geoLocation": { "latitude": 43.035436, "longitude": -88.163882 },
+    "timezone": "America/Chicago",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Corners Of Brookfield",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 26.71
+  },
+  {
+    "id": 1370,
+    "fulfillmentSite": "1370",
+    "storeName": "Hilldale Retail Store",
+    "shoppingCenter": "Hilldale Shopping Center",
+    "address": {
+      "addressLine1": "434 N. Midvale Blvd",
+      "city": "Madison",
+      "jurisdictionCode": "WI",
+      "postalCode": "53705"
+    },
+    "phoneNumber": "1-888-615-9976",
+    "geoLocation": { "latitude": 43.07185263, "longitude": -89.453067 },
+    "timezone": "America/Chicago",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Hilldale Shopping Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 68.29
+  },
+  {
+    "id": 790,
+    "fulfillmentSite": "0790",
+    "storeName": "South Barrington Retail Store",
+    "shoppingCenter": "The Arboretum Of South Barrington",
+    "address": {
+      "addressLine1": "100 West Higgins Road",
+      "city": "South Barrington",
+      "jurisdictionCode": "IL",
+      "postalCode": "60010"
+    },
+    "phoneNumber": "1-888-552-5548",
+    "geoLocation": { "latitude": 42.07477565, "longitude": -88.185193 },
+    "timezone": "America/Chicago",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Arboretum Of South Barrington",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      }
+    ],
+    "distanceInMiles": 93.13
+  },
+  {
+    "id": 780,
+    "fulfillmentSite": "0780",
+    "storeName": "Old Orchard Retail Store",
+    "shoppingCenter": "Old Orchard Center",
+    "address": {
+      "addressLine1": "4999 Old Orchard Center",
+      "city": "Skokie",
+      "jurisdictionCode": "IL",
+      "postalCode": "60077"
+    },
+    "phoneNumber": "1-888-552-5564",
+    "geoLocation": { "latitude": 42.0607916, "longitude": -87.7480908 },
+    "timezone": "America/Chicago",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Old Orchard Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 96.69
+  },
+  {
+    "id": 1350,
+    "fulfillmentSite": "1350",
+    "storeName": "Oakbrook Retail Store",
+    "shoppingCenter": "Oakbrook Center",
+    "address": {
+      "addressLine1": "2202 Oakbrook Center",
+      "city": "Oak Brook",
+      "jurisdictionCode": "IL",
+      "postalCode": "60523"
+    },
+    "phoneNumber": "1-888-298-4270",
+    "geoLocation": { "latitude": 41.851651, "longitude": -87.954382 },
+    "timezone": "America/Chicago",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Oakbrook Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 109.2
+  },
+  {
+    "id": 990,
+    "fulfillmentSite": "0990",
+    "storeName": "Mall of America Retail Store",
+    "shoppingCenter": "Mall Of America",
+    "address": {
+      "addressLine1": "100 South Ave",
+      "city": "Bloomington",
+      "jurisdictionCode": "MN",
+      "postalCode": "55425"
+    },
+    "phoneNumber": "1-888-615-9974",
+    "geoLocation": { "latitude": 44.85334404, "longitude": -93.23972273 },
+    "timezone": "America/Chicago",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Mall Of America",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:30",
+        "closeTime": "19:00",
+        "totalOpenHours": 8.5
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 269.69
+  },
+  {
+    "id": 1180,
+    "fulfillmentSite": "1180",
+    "storeName": "Partridge Creek Retail Store",
+    "shoppingCenter": "The Mall At Partridge Creek",
+    "address": {
+      "addressLine1": "17420 Hall Rd",
+      "city": "Clinton Township",
+      "jurisdictionCode": "MI",
+      "postalCode": "48038"
+    },
+    "phoneNumber": "1-888-534-5796",
+    "geoLocation": { "latitude": 42.625782, "longitude": -82.946465 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Mall At Partridge Creek",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "12:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 6
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 270.53
+  },
+  {
+    "id": 1130,
+    "fulfillmentSite": "1130",
+    "storeName": "Kenwood Retail Store",
+    "shoppingCenter": "The Kenwood Collection",
+    "address": {
+      "addressLine1": "5901 East Galbraith Road",
+      "city": "Cincinnati",
+      "jurisdictionCode": "OH",
+      "postalCode": "45236"
+    },
+    "phoneNumber": "1-888-534-5802",
+    "geoLocation": { "latitude": 39.20474926, "longitude": -84.37408367 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Kenwood Collection",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      }
+    ],
+    "distanceInMiles": 352.43
+  },
+  {
+    "id": 1110,
+    "fulfillmentSite": "1110",
+    "storeName": "Easton Town Center Retail Store",
+    "shoppingCenter": "Easton Town Center",
+    "address": {
+      "addressLine1": "4222 Easton Loop West",
+      "city": "Columbus",
+      "jurisdictionCode": "OH",
+      "postalCode": "43219"
+    },
+    "phoneNumber": "1-888-534-5809",
+    "geoLocation": { "latitude": 40.05414453, "longitude": -82.91690648 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Easton Town Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "12:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 6
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 357.9
+  },
+  {
+    "id": 1000,
+    "fulfillmentSite": "1000",
+    "storeName": "Legacy Village Retail Store",
+    "shoppingCenter": "Legacy Village",
+    "address": {
+      "addressLine1": "25225 Cedar Rd",
+      "city": "Lyndhurst",
+      "jurisdictionCode": "OH",
+      "postalCode": "44124"
+    },
+    "phoneNumber": "1-888-534-5808",
+    "geoLocation": { "latitude": 41.502696, "longitude": -81.500262 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Legacy Village",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "12:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 6
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      }
+    ],
+    "distanceInMiles": 365.9
+  },
+  {
+    "id": 1120,
+    "fulfillmentSite": "1120",
+    "storeName": "Town Center Crossing Retail Store",
+    "shoppingCenter": "Town Center Crossing",
+    "address": {
+      "addressLine1": "4401 W. 119 Street",
+      "city": "Leawood",
+      "jurisdictionCode": "KS",
+      "postalCode": "66209"
+    },
+    "phoneNumber": "1-888-534-5804",
+    "geoLocation": { "latitude": 38.91163461, "longitude": -94.636781 },
+    "timezone": "America/Chicago",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Town Center Crossing",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "12:00",
+        "closeTime": "17:00",
+        "totalOpenHours": 5
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      }
+    ],
+    "distanceInMiles": 458.16
+  },
+  {
+    "id": 800,
+    "fulfillmentSite": "0800",
+    "storeName": "Ross Park Retail Store",
+    "shoppingCenter": "Ross Park Mall",
+    "address": {
+      "addressLine1": "1000 Ross Park Mall Drive",
+      "city": "Pittsburgh",
+      "jurisdictionCode": "PA",
+      "postalCode": "15237"
+    },
+    "phoneNumber": "1-888-552-5571",
+    "geoLocation": { "latitude": 40.54259337, "longitude": -80.00912073 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Ross Park Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 464.9
+  },
+  {
+    "id": 1210,
+    "fulfillmentSite": "1210",
+    "storeName": "Boulevard Retail Store",
+    "shoppingCenter": "Boulevard Consumer Square",
+    "address": {
+      "addressLine1": "1565 Niagara Falls Boulevard,",
+      "city": "Amherst",
+      "jurisdictionCode": "NY",
+      "postalCode": "14228"
+    },
+    "phoneNumber": "1-888-303-9727",
+    "geoLocation": { "latitude": 42.99823954, "longitude": -78.82147536 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Boulevard Consumer Square",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "17:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 472.74
+  },
+  {
+    "id": 810,
+    "fulfillmentSite": "0810",
+    "storeName": "Eastview Retail Store",
+    "shoppingCenter": "Eastview Mall",
+    "address": {
+      "addressLine1": "60 Eastview Mall Drive",
+      "city": "Victor",
+      "jurisdictionCode": "NY",
+      "postalCode": "14564"
+    },
+    "phoneNumber": "1-888-552-5583",
+    "geoLocation": { "latitude": 43.026312, "longitude": -77.443766 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Eastview Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 541.73
+  },
+  {
+    "id": 970,
+    "fulfillmentSite": "0970",
+    "storeName": "Fayetteville Retail Store",
+    "shoppingCenter": "Towne Center Mall",
+    "address": {
+      "addressLine1": "304 Towne Center Drive",
+      "city": "Fayetteville",
+      "jurisdictionCode": "NY",
+      "postalCode": "13066"
+    },
+    "phoneNumber": "1-888-615-9967",
+    "geoLocation": { "latitude": 43.03323757, "longitude": -76.0206057 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Towne Center Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 613.16
+  },
+  {
+    "id": 1360,
+    "fulfillmentSite": "1360",
+    "storeName": "Stonefield Retail Store",
+    "shoppingCenter": "The Shops At Stonefield",
+    "address": {
+      "addressLine1": "2015 Bond Street",
+      "city": "Charlottesville",
+      "jurisdictionCode": "VA",
+      "postalCode": "22901"
+    },
+    "phoneNumber": "1-888-660-1569",
+    "geoLocation": { "latitude": 38.063896, "longitude": -78.490876 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Shops At Stonefield",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "12:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 6
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      }
+    ],
+    "distanceInMiles": 628.15
+  },
+  {
+    "id": 1340,
+    "fulfillmentSite": "1340",
+    "storeName": "Pike and Rose Retail Store",
+    "shoppingCenter": "Pike And Rose",
+    "address": {
+      "addressLine1": "925 Rose Ave",
+      "city": "North Bethesda",
+      "jurisdictionCode": "MD",
+      "postalCode": "20852"
+    },
+    "phoneNumber": "1-888-660-1570",
+    "geoLocation": { "latitude": 39.05133434, "longitude": -77.11637006 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Pike And Rose",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 649.53
+  },
+  {
+    "id": 1090,
+    "fulfillmentSite": "1090",
+    "storeName": "Short Pump Retail Store",
+    "shoppingCenter": "Short Pump Town Center",
+    "address": {
+      "addressLine1": "11800 West Broad Street,",
+      "city": "Richmond",
+      "jurisdictionCode": "VA",
+      "postalCode": "23233"
+    },
+    "phoneNumber": "1-888-534-5803",
+    "geoLocation": { "latitude": 37.65612296, "longitude": -77.61926815 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Short Pump Town Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 682.88
+  },
+  {
+    "id": 510,
+    "fulfillmentSite": "0510",
+    "storeName": "Saucon Valley Retail Store",
+    "shoppingCenter": "The Promenade Shops At Saucon Valley",
+    "address": {
+      "addressLine1": "3301 Center Valley Pkwy",
+      "city": "Center Valley",
+      "jurisdictionCode": "PA",
+      "postalCode": "18034"
+    },
+    "phoneNumber": "1-888-552-9885",
+    "geoLocation": { "latitude": 40.558716, "longitude": -75.413718 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Promenade Shops At Saucon Valley",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 685.01
+  },
+  {
+    "id": 890,
+    "fulfillmentSite": "0890",
+    "storeName": "King Of Prussia Retail Store",
+    "shoppingCenter": "The Plaza At King Of Prussia Mall",
+    "address": {
+      "addressLine1": "160 North Gulph Road",
+      "city": "King Of Prussia",
+      "jurisdictionCode": "PA",
+      "postalCode": "19406"
+    },
+    "phoneNumber": "1-888-473-1828",
+    "geoLocation": { "latitude": 40.08817044, "longitude": -75.39265811 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "The Plaza At King Of Prussia Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 698.35
+  },
+  {
+    "id": 530,
+    "fulfillmentSite": "0530",
+    "storeName": "Colonie Retail Store",
+    "shoppingCenter": "Colonie Center",
+    "address": {
+      "addressLine1": "131 Colonie Center",
+      "city": "Albany",
+      "jurisdictionCode": "NY",
+      "postalCode": "12205"
+    },
+    "phoneNumber": "1-888-552-5519",
+    "geoLocation": { "latitude": 42.70971398, "longitude": -73.81810883 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Colonie Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 726.8
+  },
+  {
+    "id": 320,
+    "fulfillmentSite": "0320",
+    "storeName": "Sagemore Retail Store",
+    "shoppingCenter": "The Promenade At Sagemore",
+    "address": {
+      "addressLine1": "500 Route 73 S",
+      "city": "Marlton",
+      "jurisdictionCode": "NJ",
+      "postalCode": "08053"
+    },
+    "phoneNumber": "1-888-552-9883",
+    "geoLocation": { "latitude": 39.876261, "longitude": -74.92044857 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Promenade At Sagemore",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 727.16
+  },
+  {
+    "id": 1010,
+    "fulfillmentSite": "1010",
+    "storeName": "Adirondack Outlet Store",
+    "shoppingCenter": "Adirondack Outlet Mall",
+    "address": {
+      "addressLine1": "1444 U.S. 9",
+      "city": "Lake George",
+      "jurisdictionCode": "NY",
+      "postalCode": "12845"
+    },
+    "phoneNumber": "1-888-615-9978",
+    "geoLocation": { "latitude": 43.3660443, "longitude": -73.697812 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Adirondack Outlet Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      }
+    ],
+    "distanceInMiles": 727.28
+  },
+  {
+    "id": 900,
+    "fulfillmentSite": "0900",
+    "storeName": "Paramus Park Retail Store",
+    "shoppingCenter": "Paramus Park Mall",
+    "address": {
+      "addressLine1": "700 Paramus Park",
+      "city": "Paramus",
+      "jurisdictionCode": "NJ",
+      "postalCode": "07652"
+    },
+    "phoneNumber": "1-888-490-3837",
+    "geoLocation": { "latitude": 40.95738893, "longitude": -74.06872124 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Paramus Park Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 0
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 742.29
+  },
+  {
+    "id": 950,
+    "fulfillmentSite": "0950",
+    "storeName": "Freehold Retail Store",
+    "shoppingCenter": "Freehold Raceway Mall",
+    "address": {
+      "addressLine1": "3710 Route 9 South",
+      "city": "Freehold",
+      "jurisdictionCode": "NJ",
+      "postalCode": "07728"
+    },
+    "phoneNumber": "1-888-615-9968",
+    "geoLocation": { "latitude": 40.25214437, "longitude": -74.29943004 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Freehold Raceway Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 747.4
+  },
+  {
+    "id": 980,
+    "fulfillmentSite": "0980",
+    "storeName": "Burlington, VT",
+    "shoppingCenter": "Burlington Town Center",
+    "address": {
+      "addressLine1": "101 Cherry Street",
+      "city": "Burlington",
+      "jurisdictionCode": "VT",
+      "postalCode": "05401"
+    },
+    "phoneNumber": "1-888-615-9973",
+    "geoLocation": { "latitude": 44.47893, "longitude": -73.21398 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": true,
+    "storeHours": [],
+    "distanceInMiles": 748.08
+  },
+  {
+    "id": 820,
+    "fulfillmentSite": "0820",
+    "storeName": "Ridge Hill Retail Store",
+    "shoppingCenter": "Ridge Hill Mall",
+    "address": {
+      "addressLine1": "1 Ridge Hill Boulevard",
+      "city": "Yonkers",
+      "jurisdictionCode": "NY",
+      "postalCode": "10710"
+    },
+    "phoneNumber": "1-888-490-3836",
+    "geoLocation": { "latitude": 40.96266157, "longitude": -73.85561059 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Ridge Hill Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 752.78
+  },
+  {
+    "id": 1430,
+    "fulfillmentSite": "1430",
+    "storeName": "Williston Retail Store",
+    "shoppingCenter": "Finney Crossing",
+    "address": {
+      "addressLine1": "69 Market Street",
+      "city": "Williston",
+      "jurisdictionCode": "VT",
+      "postalCode": "05495"
+    },
+    "phoneNumber": "1-888-307-7305",
+    "geoLocation": { "latitude": 44.44878371, "longitude": -73.10745057 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Finney Crossing",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 753.33
+  },
+  {
+    "id": 960,
+    "fulfillmentSite": "0960",
+    "storeName": "Danbury Retail Store",
+    "shoppingCenter": "Danbury Fair",
+    "address": {
+      "addressLine1": "7 Backus Avenue",
+      "city": "Danbury",
+      "jurisdictionCode": "CT",
+      "postalCode": "06810"
+    },
+    "phoneNumber": "1-888-615-9964",
+    "geoLocation": { "latitude": 41.379563, "longitude": -73.479782 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Danbury Fair",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 763.25
+  },
+  {
+    "id": 1170,
+    "fulfillmentSite": "1170",
+    "storeName": "Lynnhaven Retail Store",
+    "shoppingCenter": "Lynnhaven Mall",
+    "address": {
+      "addressLine1": "701 Lynnhaven Parkway",
+      "city": "Virginia Beach",
+      "jurisdictionCode": "VA",
+      "postalCode": "23452"
+    },
+    "phoneNumber": "1-888-534-5795",
+    "geoLocation": { "latitude": 36.81690114, "longitude": -76.07051843 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Lynnhaven Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "12:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 6
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      }
+    ],
+    "distanceInMiles": 785.67
+  },
+  {
+    "id": 1200,
+    "fulfillmentSite": "1200",
+    "storeName": "Smith Haven Retail Store",
+    "shoppingCenter": "Smith Haven Mall",
+    "address": {
+      "addressLine1": "220 Smith Haven Mall",
+      "city": "Lake Grove",
+      "jurisdictionCode": "NY",
+      "postalCode": "11755"
+    },
+    "phoneNumber": "1-888-660-1567",
+    "geoLocation": { "latitude": 40.86481821, "longitude": -73.12911014 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Smith Haven Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 791
+  },
+  {
+    "id": 1390,
+    "fulfillmentSite": "1390",
+    "storeName": "Yale Retail Store",
+    "shoppingCenter": "The Shops At Yale",
+    "address": {
+      "addressLine1": "272 Elm Street",
+      "city": "New Haven",
+      "jurisdictionCode": "CT",
+      "postalCode": "06511"
+    },
+    "phoneNumber": "1-888-660-1571",
+    "geoLocation": { "latitude": 41.31078257, "longitude": -72.93076236 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "The Shops At Yale",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "19:00",
+        "totalOpenHours": 9
+      }
+    ],
+    "distanceInMiles": 791.98
+  },
+  {
+    "id": 1420,
+    "fulfillmentSite": "1420",
+    "storeName": "Mountain Farms Retail Store",
+    "shoppingCenter": "Mountain Farms Mall",
+    "address": {
+      "addressLine1": "353 Russell St",
+      "city": "Hadley",
+      "jurisdictionCode": "MA",
+      "postalCode": "01035"
+    },
+    "phoneNumber": "1-888-300-5803",
+    "geoLocation": { "latitude": 42.35676022, "longitude": -72.55169733 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Mountain Farms Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 794.54
+  },
+  {
+    "id": 410,
+    "fulfillmentSite": "0410",
+    "storeName": "Powerhouse Retail Store",
+    "shoppingCenter": "PowerHouse Mall",
+    "address": {
+      "addressLine1": "8 Glen Road",
+      "city": "West Lebanon",
+      "jurisdictionCode": "NH",
+      "postalCode": "03784"
+    },
+    "phoneNumber": "1-603-298-6975",
+    "geoLocation": { "latitude": 43.6337129, "longitude": -72.31604264 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "PowerHouse Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 794.8
+  },
+  {
+    "id": 540,
+    "fulfillmentSite": "0540",
+    "storeName": "Evergreen Walk Retail Store",
+    "shoppingCenter": "The Promenade Shops At Evergreen Walk",
+    "address": {
+      "addressLine1": "75 Evergreen Way",
+      "city": "South Windsor",
+      "jurisdictionCode": "CT",
+      "postalCode": "06074"
+    },
+    "phoneNumber": "1-888-552-5517",
+    "geoLocation": { "latitude": 41.809471, "longitude": -72.55742 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Promenade Shops At Evergreen Walk",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 802.08
+  },
+  {
+    "id": 1080,
+    "fulfillmentSite": "1080",
+    "storeName": "Blackstone Valley Retail Store",
+    "shoppingCenter": "The Shoppes At Blackstone Valley",
+    "address": {
+      "addressLine1": "70 Worcester - Providence Turnpike,",
+      "city": "Millbury",
+      "jurisdictionCode": "MA",
+      "postalCode": "01527"
+    },
+    "phoneNumber": "1-888-307-7266",
+    "geoLocation": { "latitude": 42.19918866, "longitude": -71.77922195 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "The Shoppes At Blackstone Valley",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 835.43
+  },
+  {
+    "id": 110,
+    "fulfillmentSite": "0110",
+    "storeName": "Concord Outlet Store",
+    "address": {
+      "addressLine1": "55 Fort Eddy Road",
+      "city": "Concord",
+      "jurisdictionCode": "NH",
+      "postalCode": "03301"
+    },
+    "phoneNumber": "1-603-225-6575",
+    "geoLocation": { "latitude": 43.21117151, "longitude": -71.53284142 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Concord Outlet Store",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 836.8
+  },
+  {
+    "id": 100,
+    "fulfillmentSite": "0100",
+    "storeName": "Nashua Outlet Store",
+    "shoppingCenter": "Nashua Mall",
+    "address": {
+      "addressLine1": "31 Gusabel Avenue",
+      "city": "Nashua",
+      "jurisdictionCode": "NH",
+      "postalCode": "03063"
+    },
+    "phoneNumber": "1-603-880-4829",
+    "geoLocation": { "latitude": 42.765203, "longitude": -71.496335 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Nashua Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 842.8
+  },
+  {
+    "id": 70,
+    "fulfillmentSite": "0070",
+    "storeName": "North Conway Outlet Store",
+    "shoppingCenter": "Settler's Crossing",
+    "address": {
+      "addressLine1": "1390 White Mountain Highway",
+      "city": "North Conway",
+      "jurisdictionCode": "NH",
+      "postalCode": "03860"
+    },
+    "phoneNumber": "1-603-356-2100",
+    "geoLocation": { "latitude": 44.0167893, "longitude": -71.1149551 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Settler's Crossing",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 852.86
+  },
+  {
+    "id": 1440,
+    "fulfillmentSite": "1440",
+    "storeName": "Tuscan Village Retail Store",
+    "shoppingCenter": "Tuscan Village",
+    "address": {
+      "addressLine1": "3 South Village Drive",
+      "city": "Salem",
+      "jurisdictionCode": "NH",
+      "postalCode": "03079"
+    },
+    "phoneNumber": "1-888-303-3124",
+    "geoLocation": { "latitude": 42.77002715, "longitude": -71.22433582 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Tuscan Village",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 856.39
+  },
+  {
+    "id": 1140,
+    "fulfillmentSite": "1140",
+    "storeName": "Garden City Retail Store",
+    "shoppingCenter": "Garden City Center",
+    "address": {
+      "addressLine1": "200 Hillside Road",
+      "city": "Cranston",
+      "jurisdictionCode": "RI",
+      "postalCode": "02920"
+    },
+    "phoneNumber": "1-888-534-5801",
+    "geoLocation": { "latitude": 41.75808759, "longitude": -71.45763632 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Garden City Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 858.1
+  },
+  {
+    "id": 500,
+    "fulfillmentSite": "0500",
+    "storeName": "Wayside Retail Store",
+    "shoppingCenter": "Wayside Commons",
+    "address": {
+      "addressLine1": "6 Wayside Road",
+      "city": "Burlington",
+      "jurisdictionCode": "MA",
+      "postalCode": "01803"
+    },
+    "phoneNumber": "1-888-552-9866",
+    "geoLocation": { "latitude": 42.485813, "longitude": -71.192459 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Wayside Commons",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 861.22
+  },
+  {
+    "id": 770,
+    "fulfillmentSite": "0770",
+    "storeName": "Legacy Place Retail Store",
+    "shoppingCenter": "Legacy Place",
+    "address": {
+      "addressLine1": "340 Legacy Place",
+      "city": "Dedham",
+      "jurisdictionCode": "MA",
+      "postalCode": "02026"
+    },
+    "phoneNumber": "1-800-650-6358",
+    "geoLocation": { "latitude": 42.2323489, "longitude": -71.1789134 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Legacy Place",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 865.14
+  },
+  {
+    "id": 550,
+    "fulfillmentSite": "0550",
+    "storeName": "Mansfield Retail Store",
+    "shoppingCenter": "Mansfield Crossing",
+    "address": {
+      "addressLine1": "280 School Street",
+      "city": "Mansfield",
+      "jurisdictionCode": "MA",
+      "postalCode": "02048"
+    },
+    "phoneNumber": "1-888-552-5547",
+    "geoLocation": { "latitude": 42.012716, "longitude": -71.230951 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Mansfield Crossing",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 865.6
+  },
+  {
+    "id": 1380,
+    "fulfillmentSite": "1380",
+    "storeName": "Seaport Retail Store",
+    "shoppingCenter": "One Seaport",
+    "address": {
+      "addressLine1": "56 Seaport Blvd.",
+      "city": "Boston",
+      "jurisdictionCode": "MA",
+      "postalCode": "02210"
+    },
+    "phoneNumber": "1-888-660-1572",
+    "geoLocation": { "latitude": 42.35308874, "longitude": -71.0476676 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "One Seaport",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 870.15
+  },
+  {
+    "id": 1020,
+    "fulfillmentSite": "1020",
+    "storeName": "Lafayette Outlet Store",
+    "shoppingCenter": "Lafayette Crossing",
+    "address": {
+      "addressLine1": "35 Lafayette Road",
+      "city": "North Hampton",
+      "jurisdictionCode": "NH",
+      "postalCode": "03862"
+    },
+    "phoneNumber": "1-888-615-9965",
+    "geoLocation": { "latitude": 42.968557, "longitude": -70.8351061 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Lafayette Crossing",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 873.91
+  },
+  {
+    "id": 730,
+    "fulfillmentSite": "0730",
+    "storeName": "Wareham Outlet Store",
+    "shoppingCenter": "Wareham Crossing Mall",
+    "address": {
+      "addressLine1": "2421 Cranberry Hwy. Rt. 28",
+      "city": "Wareham",
+      "jurisdictionCode": "MA",
+      "postalCode": "02571"
+    },
+    "phoneNumber": "1-508-291-0915",
+    "geoLocation": { "latitude": 41.7741903, "longitude": -70.7420536 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Wareham Crossing Mall",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 893.79
+  },
+  {
+    "id": 840,
+    "fulfillmentSite": "0840",
+    "storeName": "Park Meadows Retail Store",
+    "shoppingCenter": "Park Meadows",
+    "address": {
+      "addressLine1": "8525 Park Meadows Center Drive",
+      "city": "Lone Tree",
+      "jurisdictionCode": "CO",
+      "postalCode": "80124"
+    },
+    "phoneNumber": "1-888-615-9975",
+    "geoLocation": { "latitude": 39.56268068, "longitude": -104.8754093 },
+    "timezone": "America/Denver",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Park Meadows",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "11:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 10
+      }
+    ],
+    "distanceInMiles": 903.18
+  },
+  {
+    "id": 860,
+    "fulfillmentSite": "0860",
+    "storeName": "Home Store",
+    "shoppingCenter": "L.L.Bean Flagship Campus",
+    "address": {
+      "addressLine1": "12 Nathan Nye Street",
+      "city": "Freeport",
+      "jurisdictionCode": "ME",
+      "postalCode": "04032"
+    },
+    "phoneNumber": "1-877-755-2326",
+    "geoLocation": { "latitude": 43.857218, "longitude": -70.104677 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Home Store",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      }
+    ],
+    "distanceInMiles": 903.8
+  },
+  {
+    "id": 520,
+    "fulfillmentSite": "0520",
+    "storeName": "Bike, Boat, & Ski Store",
+    "shoppingCenter": "L.L.Bean Flagship Campus",
+    "address": {
+      "addressLine1": "57 Main Street",
+      "city": "Freeport",
+      "jurisdictionCode": "ME",
+      "postalCode": "04032"
+    },
+    "phoneNumber": "1-877-755-2326",
+    "geoLocation": { "latitude": 43.85702, "longitude": -70.103687 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Bike, Boat, & Ski Store",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "07:00",
+        "closeTime": "22:00",
+        "totalOpenHours": 15
+      }
+    ],
+    "distanceInMiles": 903.85
+  },
+  {
+    "id": 40,
+    "fulfillmentSite": "0040",
+    "storeName": "Flagship Retail Store",
+    "shoppingCenter": "L.L.Bean Flagship Campus",
+    "address": {
+      "addressLine1": "95 Main Street",
+      "city": "Freeport",
+      "jurisdictionCode": "ME",
+      "postalCode": "04032"
+    },
+    "phoneNumber": "1-877-755-2326",
+    "geoLocation": { "latitude": 43.857865, "longitude": -70.103352 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Flagship Retail Store",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 24
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 24
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 24
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 24
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 24
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 24
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "00:00",
+        "closeTime": "00:00",
+        "totalOpenHours": 24
+      }
+    ],
+    "distanceInMiles": 903.86
+  },
+  {
+    "id": 80,
+    "fulfillmentSite": "0080",
+    "storeName": "Freeport Outlet Store",
+    "shoppingCenter": "Village Station",
+    "address": {
+      "addressLine1": "1 Freeport Village Station",
+      "city": "Freeport",
+      "jurisdictionCode": "ME",
+      "postalCode": "04032"
+    },
+    "phoneNumber": "1-207-552-7772",
+    "geoLocation": { "latitude": 43.8558189, "longitude": -70.102834 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Village Station",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 12
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 12
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 12
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "09:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 12
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 12
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 12
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "21:00",
+        "totalOpenHours": 12
+      }
+    ],
+    "distanceInMiles": 903.89
+  },
+  {
+    "id": 1280,
+    "fulfillmentSite": "1280",
+    "storeName": "Mashpee Retail Store",
+    "shoppingCenter": "Mashpee Commons",
+    "address": {
+      "addressLine1": "7 Market Street",
+      "city": "Mashpee",
+      "jurisdictionCode": "MA",
+      "postalCode": "02649"
+    },
+    "phoneNumber": "1-888-660-1568",
+    "geoLocation": { "latitude": 41.61741, "longitude": -70.490694 },
+    "timezone": "America/New_York",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": true,
+    "isBopisEnabled": true,
+    "isCurbsidePickupEnabled": true,
+    "storePickupLocationName": "Mashpee Commons",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "10:00",
+        "closeTime": "17:00",
+        "totalOpenHours": 7
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "10:00",
+        "closeTime": "18:00",
+        "totalOpenHours": 8
+      }
+    ],
+    "distanceInMiles": 908.94
+  },
+  {
+    "id": 720,
+    "fulfillmentSite": "0720",
+    "storeName": "Bangor Outlet Store",
+    "shoppingCenter": "Parkade Shopping Center",
+    "address": {
+      "addressLine1": "534 Stillwater Avenue",
+      "city": "Bangor",
+      "jurisdictionCode": "ME",
+      "postalCode": "04401"
+    },
+    "phoneNumber": "1-207-942-0146",
+    "geoLocation": { "latitude": 44.83021546, "longitude": -68.75609453 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Parkade Shopping Center",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 967.27
+  },
+  {
+    "id": 90,
+    "fulfillmentSite": "0090",
+    "storeName": "Ellsworth Outlet Store",
+    "address": {
+      "addressLine1": "150 High Street",
+      "city": "Ellsworth",
+      "jurisdictionCode": "ME",
+      "postalCode": "04605"
+    },
+    "phoneNumber": "1-207-667-7753",
+    "geoLocation": { "latitude": 44.53709477, "longitude": -68.41199381 },
+    "timezone": "America/New_York",
+    "storeType": "Outlet",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "Ellsworth Outlet Store",
+    "storeHours": [
+      {
+        "calendarDate": "2022-10-20",
+        "dayOfWeek": "Thursday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-21",
+        "dayOfWeek": "Friday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-22",
+        "dayOfWeek": "Saturday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-23",
+        "dayOfWeek": "Sunday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-24",
+        "dayOfWeek": "Monday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-25",
+        "dayOfWeek": "Tuesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      },
+      {
+        "calendarDate": "2022-10-26",
+        "dayOfWeek": "Wednesday",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "totalOpenHours": 11
+      }
+    ],
+    "distanceInMiles": 984.82
+  },
+  {
+    "id": 1270,
+    "fulfillmentSite": "1270",
+    "storeName": "Park City Retail Store",
+    "shoppingCenter": "The Kimball On Main",
+    "address": {
+      "addressLine1": "675 Main Street",
+      "city": "Park City",
+      "jurisdictionCode": "UT",
+      "postalCode": "84060"
+    },
+    "phoneNumber": "1-888-292-3915",
+    "geoLocation": { "latitude": 40.64645604, "longitude": -111.4976155 },
+    "timezone": "America/Denver",
+    "storeType": "Retail",
+    "isInventoryExposedOnline": false,
+    "isBopisEnabled": false,
+    "isCurbsidePickupEnabled": false,
+    "storePickupLocationName": "The Kimball On Main",
+    "storeHours": [],
+    "distanceInMiles": 1208.89
+  }
+]

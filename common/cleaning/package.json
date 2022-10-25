@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json2csv": "^5.0.7",
+    "yargs": "^17.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3"
+  }
+}
